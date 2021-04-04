@@ -7,17 +7,3 @@
     }
 
   }
-
-
-
-  Test the image creation:
-
-  $ docker images
-
-  $ docker build -t test_image .
-
-  $ docker images
-
-  $ docker rmi test_image
-
-
